@@ -1,16 +1,31 @@
 .nav-wrapper {
-	background-color: #424242;
-	font-family: 'Ruda', sans-serif;
-
-
+  background-color: #424242;
+  font-family: "Ruda", sans-serif;
 }
 
-body{
-	background-color: #000000;
+body {
+  background-color: #000000;
 }
 
-.card{
+.card {
+  font-family: "Ruda", sans-serif;
+  color: #424242;
+}
 
-	font-family: 'Ruda', sans-serif;
-	color: #424242
+.slider {
+  margin-top: 20px;
+}
+
+#logo {
+  margin-right: 100px;
+  margin-top: 7px;
+  margin-left: 5px;
+}
+
+#titulo {
+  margin-bottom: 7px;
+}
+
+.input-field {
+  margin-top: 100px;
 }
